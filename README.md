@@ -1,9 +1,14 @@
 <h1 align="center">Namaste 🙏, I'm Bhumika</h1>
-<h3 align="center">A Frontend Focused Web Developer!</h3>
+<h3 align="center">A Frontend Focused Web Developer! </h3>
 
 <img align="right" alt="Web_Developer" width="400" src="https://camo.githubusercontent.com/4cfc2138e2bc55b361b9d35bf865144dce669bee99e4c4bee2556a9b2bc57465/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a7942764135436e455833536434616f642e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumikanarale&label=Profile%20views&color=0e75b6&style=flat" alt="bhumikanarale" /> </p>
+<ul>
+<li>I am currently Working as a Software Developer</li>
+
+<li>#ReactJS #WordPress #PHP </li>
+<li>#CMS #FrontEndDevelopment #WebDevelopment</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
